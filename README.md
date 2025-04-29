@@ -81,13 +81,9 @@ Open App > Fill in Profile Info > View Weekly Plan > Click a Day > View Workout 
 ---
 
 ### 2.3 App Screenshots
-
-- ![Home Screen](home.png)
-- ![Workout Detail](workout.png)
-- ![Profile Update](profile.png)
-
-(*Insert screenshots or links if applicable*)
-
+- ![messageImage_1745902881574_0](https://github.com/user-attachments/assets/2b62ffda-5c58-402a-9bda-00424a26cf8a)
+- ![messageImage_1745902915154_0](https://github.com/user-attachments/assets/1bc6b8b5-5e8c-4d15-b999-faf0e530cf73)
+- ![messageImage_1745902925029_0](https://github.com/user-attachments/assets/1849c59b-feec-499d-a694-2d714ac66c4f)
 ---
 
 ## 3. Deployment (2 pts)
