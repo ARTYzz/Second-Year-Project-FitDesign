@@ -121,7 +121,7 @@ const workoutData = [
       {
         name: "Mountain Climbers",
         detail: "3 sets of 40 seconds",
-        image: require("../assets/mountainclimbers.png"),
+        image: require("../assets/mountainclimbers.jpg"),
       },
     ],
   },
