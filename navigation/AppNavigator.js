@@ -7,7 +7,7 @@ import WelcomeScreen from "../screens/WelcomeScreen";
 import MainScreen from "../screens/MainScreen";
 import WorkoutScreen from "../screens/WorkoutScreen";
 import ProfileScreen from "../screens/ProfileScreen";
-import EditProfileScreen from "../screens/EditProfileScreen"; // ⬅️
+import EditProfileScreen from "../screens/EditProfileScreen";
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -29,8 +29,22 @@ export default function AppNavigator() {
       {userInfo ? (
         <>
           <Stack.Screen name="MainTabs" component={MainTabs} />
-          <Stack.Screen name="Workout" component={WorkoutScreen} />
-          <Stack.Screen name="EditProfile" component={EditProfileScreen} />
+          <Stack.Screen
+            name="Workout"
+            component={WorkoutScreen}
+            options={{
+              headerShown: true, // ✅ Show default header with arrow
+              title: "Workout Plan", // ✅ Title at top
+              headerBackTitleVisible: false, // ✅ Hide the back button text (iOS)
+            }}
+          />
+          <Stack.Screen
+            name="EditProfile"
+            component={EditProfileScreen}
+            options={{
+              headerShown: false, // remains full-screen as a form
+            }}
+          />
         </>
       ) : (
         <Stack.Screen name="Welcome" component={WelcomeScreen} />
