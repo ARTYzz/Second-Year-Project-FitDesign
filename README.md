@@ -1,4 +1,4 @@
-**# Take-home Assignment - FitDesign**
+![messageImage_1745902881574_0](https://github.com/user-attachments/assets/2b62ffda-5c58-402a-9bda-00424a26cf8a)**# Take-home Assignment - FitDesign**
 
 ---
 
@@ -82,7 +82,8 @@ Open App > Fill in Profile Info > View Weekly Plan > Click a Day > View Workout 
 
 ### 2.3 App Screenshots
 
-- ![Home Screen](home.png)
+- ![Home Screen](![messageImage_1745902881574_0](https://github.com/user-attachments/assets/a72343bc-7da0-41fc-94e3-caa0e466ec3e)
+)
 - ![Workout Detail](workout.png)
 - ![Profile Update](profile.png)
 
