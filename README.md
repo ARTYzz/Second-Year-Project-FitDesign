@@ -6,7 +6,7 @@
 **Student ID:** 6631503125  
 **App Name:** FitDesign  
 **Framework Used:** React Native  
-**GitHub Repository:** [Insert link here]  
+**GitHub Repository:** [[Insert link here] ](https://github.com/ARTYzz/Second-Year-Project-FitDesign) 
 **APK/IPA File Link:** [Insert link here]
 
 ---
