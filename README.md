@@ -1,4 +1,4 @@
-**# Take-home Assignment - FitDesign**
+# Take-home Assignment - FitDesign**
 
 ---
 
